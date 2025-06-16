@@ -2,6 +2,11 @@ Author: Aidan Levy
 Creation Date: May 24, 2025
 Description:
 
+
+
+hi aidan
+
+
 This project will delve into several cryptographic methods.
 I will implement the cryptographic methods from scratch. My end
 goal is to write it from the bottom up, and if the methods are
